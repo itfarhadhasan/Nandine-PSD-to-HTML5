@@ -1,0 +1,74 @@
+/*******************************
+	All Responsive Code
+*******************************/
+
+@media (max-width: 991px){
+
+	.header-content h1 {
+    	font-size: 45px;
+	}
+
+	.header-content p {
+    	font-size: 14px;
+	}
+}
+
+
+@media (max-width: 991px){
+
+	button i {
+    background: #000;
+    color: #fff;
+    padding: 7px 16px;
+	}
+
+	.main-menu ul {
+    background: #00000069;
+    width: 100%;
+	}
+
+	.main-menu ul li a {
+	    padding: 10px;
+	}
+
+		.counter-box {
+	    margin-bottom: 40px;
+	}
+
+
+
+}
+
+
+
+@media (max-width: 767px){
+
+		.portfolio-item img {
+	    width: 100%;
+	}
+
+	.about-right h3 {
+    margin-top: 50px;
+	}
+
+	.text h2 {
+    font-size: 24px;
+	}
+
+	.skill-right h3 {
+    margin-top: 50px;
+	}
+
+		.blog-item img {
+	    width: 100%;
+	}
+
+}
+
+@media(max-width: 576px){
+		.text-right {
+	    text-align: center;
+	    margin-top: 10px;
+	}
+
+}
